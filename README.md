@@ -1,4 +1,4 @@
-# Project Portfolio 1.0
+# ProjectWPortfolio 1.0
 WP theme with Portfolio and Resume
 
 # Required
