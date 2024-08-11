@@ -1,7 +1,7 @@
-# website-dsr
-website assets for desaintriquer.fr
+# Project Portfolio 1.0
+WP theme with Portfolio and Resume
 
-# required
+# Required
 - WP V6
 - SSL Brench
 - Elementor
