@@ -1,6 +1,8 @@
 # ProjectWPortfolio 1.0
 WP theme with Portfolio and Resume
 
+![Uploading Screenshot 2024-08-11 at 4.09.49 AM.png…]()
+
 # Required
 - WP V6
 - SSL Brench
